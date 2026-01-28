@@ -1,6 +1,7 @@
 # Node modules (installed inside container)
 node_modules
 
+
 # Next.js build output
 .next
 out
